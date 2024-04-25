@@ -1,0 +1,75 @@
+/* selecteur( attribut : valeur) */
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-image: url(tofs/jiji.JPG);
+}
+/* met la premiere lettre de chaque paragraphes en tres gras */
+p:first-letter  {
+    font-size: 70%;
+}
+/*couleur des liens en rouge */
+a:link {
+    color: rgb(255, 0, 0);
+    text-decoration: none;
+}
+ a{
+    margin: 70px;
+ }
+        body{
+             font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+             
+             background-color: darkorange;
+        }
+        header{
+            background-color:rgb(11, 0, 170);
+            color: rgb(14, 182, 204);
+            padding: 20px;
+            text-align: center;
+        }
+        nav{
+            background-color: #0a0606;
+            padding: 10px;
+            
+        }
+        
+            list-style-type: none;
+            margin: 0%;
+            padding: 0%;
+            text-align: center;
+
+        nav ul{
+            display: flex;
+        }
+
+        nav ul li {
+            display: inline;
+            margin-right: 10px;
+
+        }
+        main{
+            padding: 20px;
+
+        }
+        footer{
+            background-color:blue
+            color: #fff;
+            position: absolute;
+            top:100%;
+            left:30%;
+            margin: left 25%;
+            text-align:center;
+        }
+        .en-savoir-plus{
+            color: blue;
+            font-weight: bold;
+            text-decoration: none;
+        }
+        p{ font-size: ;
+            color: #f2f2f2;
+        }
+        .barre-de-navigation{
+            position: absolute;
+            color: black;
+        }
+        
+    

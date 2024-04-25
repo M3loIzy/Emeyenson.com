@@ -1,0 +1,20 @@
+
+body{
+    background-color: rgb(156, 187, 241);
+}
+p{
+    font-style: oblique;
+}
+h1{
+    text-align: center;
+}a:link {
+    color: rgb(255, 0, 0);
+    text-decoration: none;
+}
+ a{
+    margin: 70px;
+    }
+    
+    
+    
+    
